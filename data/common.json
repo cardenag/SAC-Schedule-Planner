@@ -1,0 +1,972 @@
+{
+  "appVersion": "4.0-static-department-platform",
+  "datasetId": "50ecb85888f35114",
+  "term": "2027SP",
+  "holidays": [],
+  "blockSchedule": {
+    "patterns": [
+      {
+        "units": 1.0,
+        "sessions": 1,
+        "contactHoursMax": "16",
+        "sessionOptions": "One session per week: Mon, Tue, Wed, Thu, Fri, or Sat",
+        "lengthMinutes": 50,
+        "break": "No Break",
+        "windows": [
+          {
+            "start": "06:55",
+            "end": "07:45",
+            "label": "6:55 - 7:45"
+          },
+          {
+            "start": "08:00",
+            "end": "08:50",
+            "label": "8:00 - 8:50"
+          },
+          {
+            "start": "09:05",
+            "end": "09:55",
+            "label": "9:05 - 9:55"
+          },
+          {
+            "start": "10:05",
+            "end": "10:55",
+            "label": "10:05 - 10:55"
+          },
+          {
+            "start": "11:10",
+            "end": "12:00",
+            "label": "11:10 - 12:00"
+          },
+          {
+            "start": "12:15",
+            "end": "13:05",
+            "label": "12:15 - 1:05"
+          },
+          {
+            "start": "13:15",
+            "end": "14:05",
+            "label": "1:15 - 2:05"
+          },
+          {
+            "start": "14:20",
+            "end": "15:10",
+            "label": "2:20 - 3:10"
+          },
+          {
+            "start": "15:25",
+            "end": "16:15",
+            "label": "3:25 - 4:15"
+          },
+          {
+            "start": "16:25",
+            "end": "17:15",
+            "label": "4:25 - 5:15"
+          },
+          {
+            "start": "17:30",
+            "end": "18:20",
+            "label": "5:30 - 6:20"
+          },
+          {
+            "start": "18:35",
+            "end": "19:25",
+            "label": "6:35 - 7:25"
+          },
+          {
+            "start": "19:35",
+            "end": "20:25",
+            "label": "7:35 - 8:25"
+          },
+          {
+            "start": "20:40",
+            "end": "21:30",
+            "label": "8:40 - 9:30"
+          },
+          {
+            "start": "21:45",
+            "end": "22:35",
+            "label": "9:45 - 10:35"
+          }
+        ]
+      },
+      {
+        "units": 2.0,
+        "sessions": 1,
+        "contactHoursMax": "36.8 (36)",
+        "sessionOptions": "One session per week: Mon, Tue, Wed, Thu, Fri, or Sat",
+        "lengthMinutes": 125,
+        "break": "10 minutes",
+        "windows": [
+          {
+            "start": "07:50",
+            "end": "09:55",
+            "label": "7:50 - 9:55"
+          },
+          {
+            "start": "10:05",
+            "end": "12:10",
+            "label": "10:05 - 12:10"
+          },
+          {
+            "start": "13:15",
+            "end": "15:20",
+            "label": "1:15 - 3:20"
+          },
+          {
+            "start": "17:20",
+            "end": "19:25",
+            "label": "5:20 - 7:25"
+          },
+          {
+            "start": "19:35",
+            "end": "21:40",
+            "label": "7:35 - 9:40"
+          }
+        ]
+      },
+      {
+        "units": 3.0,
+        "sessions": 1,
+        "contactHoursMax": "51.2 (54)",
+        "sessionOptions": "One session per week: Mon, Tue, Wed, Thu, Fri, or Sat",
+        "lengthMinutes": 180,
+        "break": "20 minutes",
+        "windows": [
+          {
+            "start": "06:50",
+            "end": "10:00",
+            "label": "6:50 - 10:00"
+          },
+          {
+            "start": "10:00",
+            "end": "13:10",
+            "label": "10:00 - 1:10"
+          },
+          {
+            "start": "13:10",
+            "end": "16:20",
+            "label": "1:10 - 4:20"
+          },
+          {
+            "start": "16:20",
+            "end": "19:30",
+            "label": "4:20 - 7:30"
+          },
+          {
+            "start": "19:30",
+            "end": "22:40",
+            "label": "7:30 - 10:40"
+          }
+        ]
+      },
+      {
+        "units": 3.0,
+        "sessions": 2,
+        "contactHoursMax": "54.4 (54)",
+        "sessionOptions": "Two sessions per week:    Ex. Mon/Wed, Tue/Thu",
+        "lengthMinutes": 85,
+        "break": "No Break",
+        "windows": [
+          {
+            "start": "06:55",
+            "end": "08:20",
+            "label": "6:55 - 8:20"
+          },
+          {
+            "start": "08:30",
+            "end": "09:55",
+            "label": "8:30 - 9:55"
+          },
+          {
+            "start": "10:05",
+            "end": "11:30",
+            "label": "10:05 - 11:30"
+          },
+          {
+            "start": "11:40",
+            "end": "13:05",
+            "label": "11:40 - 1:05"
+          },
+          {
+            "start": "13:15",
+            "end": "14:40",
+            "label": "1:15 - 2:40"
+          },
+          {
+            "start": "14:50",
+            "end": "16:15",
+            "label": "2:50 - 4:15"
+          },
+          {
+            "start": "16:25",
+            "end": "17:50",
+            "label": "4:25 - 5:50"
+          },
+          {
+            "start": "18:00",
+            "end": "19:25",
+            "label": "6:00 - 7:25"
+          },
+          {
+            "start": "19:35",
+            "end": "21:00",
+            "label": "7:35 - 9:00"
+          },
+          {
+            "start": "21:10",
+            "end": "22:35",
+            "label": "9:10 - 10:35"
+          }
+        ]
+      },
+      {
+        "units": 3.0,
+        "sessions": 3,
+        "contactHoursMax": "48 (54)",
+        "sessionOptions": "Three sessions per week:    Ex. Mon/Wed/Fri, Tue/Thu/Fri",
+        "lengthMinutes": 50,
+        "break": "No Break",
+        "windows": [
+          {
+            "start": "06:55",
+            "end": "07:45",
+            "label": "6:55 - 7:45"
+          },
+          {
+            "start": "08:00",
+            "end": "08:50",
+            "label": "8:00 - 8:50"
+          },
+          {
+            "start": "09:05",
+            "end": "09:55",
+            "label": "9:05 - 9:55"
+          },
+          {
+            "start": "10:05",
+            "end": "10:55",
+            "label": "10:05 - 10:55"
+          },
+          {
+            "start": "11:10",
+            "end": "12:00",
+            "label": "11:10 - 12:00"
+          },
+          {
+            "start": "12:15",
+            "end": "13:05",
+            "label": "12:15 - 1:05"
+          },
+          {
+            "start": "13:15",
+            "end": "14:05",
+            "label": "1:15 - 2:05"
+          },
+          {
+            "start": "14:20",
+            "end": "15:10",
+            "label": "2:20 - 3:10"
+          },
+          {
+            "start": "15:25",
+            "end": "16:15",
+            "label": "3:25 - 4:15"
+          },
+          {
+            "start": "16:25",
+            "end": "17:15",
+            "label": "4:25 - 5:15"
+          },
+          {
+            "start": "17:30",
+            "end": "18:20",
+            "label": "5:30 - 6:20"
+          },
+          {
+            "start": "18:35",
+            "end": "19:25",
+            "label": "6:35 - 7:25"
+          },
+          {
+            "start": "19:35",
+            "end": "20:25",
+            "label": "7:35 - 8:25"
+          },
+          {
+            "start": "20:40",
+            "end": "21:30",
+            "label": "8:40 - 9:30"
+          },
+          {
+            "start": "21:45",
+            "end": "22:35",
+            "label": "9:45 - 10:35"
+          }
+        ]
+      },
+      {
+        "units": 4.0,
+        "sessions": 2,
+        "contactHoursMax": "73.6 (72)",
+        "sessionOptions": "Two sessions per week:    Ex. Mon/Wed, Tue/Thu",
+        "lengthMinutes": 125,
+        "break": "10 minutes",
+        "windows": [
+          {
+            "start": "07:50",
+            "end": "09:55",
+            "label": "7:50 - 9:55"
+          },
+          {
+            "start": "10:05",
+            "end": "12:10",
+            "label": "10:05 - 12:10"
+          },
+          {
+            "start": "13:15",
+            "end": "15:20",
+            "label": "1:15 - 3:20"
+          },
+          {
+            "start": "17:20",
+            "end": "19:25",
+            "label": "5:20 - 7:25"
+          },
+          {
+            "start": "19:35",
+            "end": "21:40",
+            "label": "7:35 - 9:40"
+          }
+        ]
+      },
+      {
+        "units": 4.0,
+        "sessions": 3,
+        "contactHoursMax": "72 (72)",
+        "sessionOptions": "Three sessions per week:    Ex. Mon/Wed/Fri, Tue/Thu/Fri",
+        "lengthMinutes": 75,
+        "break": "No Break",
+        "windows": [
+          {
+            "start": "06:55",
+            "end": "08:10",
+            "label": "6:55-8:10"
+          },
+          {
+            "start": "08:30",
+            "end": "09:45",
+            "label": "8:30 - 9:45"
+          },
+          {
+            "start": "10:05",
+            "end": "11:20",
+            "label": "10:05 - 11:20"
+          },
+          {
+            "start": "11:40",
+            "end": "12:55",
+            "label": "11:40 - 12:55"
+          },
+          {
+            "start": "13:15",
+            "end": "14:30",
+            "label": "1:15 - 2:30"
+          },
+          {
+            "start": "14:50",
+            "end": "16:05",
+            "label": "2:50 - 4:05"
+          },
+          {
+            "start": "16:25",
+            "end": "17:40",
+            "label": "4:25 - 5:40"
+          },
+          {
+            "start": "18:00",
+            "end": "19:15",
+            "label": "6:00 - 7:15"
+          },
+          {
+            "start": "19:35",
+            "end": "20:50",
+            "label": "7:35 - 8:50"
+          },
+          {
+            "start": "21:10",
+            "end": "22:25",
+            "label": "9:10 - 10:25"
+          }
+        ]
+      },
+      {
+        "units": 5.0,
+        "sessions": 2,
+        "contactHoursMax": "89.6 (90)",
+        "sessionOptions": "Two sessions per week:    Ex. Mon/Wed, Tue/Thu",
+        "lengthMinutes": 150,
+        "break": "10 minutes",
+        "windows": [
+          {
+            "start": "07:00",
+            "end": "09:30",
+            "label": "7:00 - 9:30"
+          },
+          {
+            "start": "10:05",
+            "end": "12:35",
+            "label": "10:05 - 12:35"
+          },
+          {
+            "start": "13:15",
+            "end": "15:45",
+            "label": "1:15 - 3:45"
+          },
+          {
+            "start": "16:25",
+            "end": "18:55",
+            "label": "4:25 - 6:55"
+          },
+          {
+            "start": "19:35",
+            "end": "22:05",
+            "label": "7:35 - 10:05"
+          }
+        ]
+      },
+      {
+        "units": 5.0,
+        "sessions": 3,
+        "contactHoursMax": "86.4 (90)",
+        "sessionOptions": "Three sessions per week:    Ex. Mon/Wed/Fri, Tue/Thu/Fri",
+        "lengthMinutes": 90,
+        "break": "No Break",
+        "windows": [
+          {
+            "start": "08:25",
+            "end": "09:55",
+            "label": "8:25 - 9:55"
+          },
+          {
+            "start": "10:05",
+            "end": "11:35",
+            "label": "10:05 - 11:35"
+          },
+          {
+            "start": "13:15",
+            "end": "14:45",
+            "label": "1:15 - 2:45"
+          },
+          {
+            "start": "16:25",
+            "end": "17:55",
+            "label": "4:25 - 5:55"
+          },
+          {
+            "start": "19:35",
+            "end": "21:05",
+            "label": "7:35 - 9:05"
+          }
+        ]
+      },
+      {
+        "units": 5.0,
+        "sessions": 4,
+        "contactHoursMax": "89.6 (90)",
+        "sessionOptions": "Four sessions per week:    Ex. Mon - Thu, Tue - Fri",
+        "lengthMinutes": 70,
+        "break": "No Break",
+        "windows": [
+          {
+            "start": "06:55",
+            "end": "08:05",
+            "label": "6:55 - 8:05"
+          },
+          {
+            "start": "08:30",
+            "end": "09:40",
+            "label": "8:30 - 9:40"
+          },
+          {
+            "start": "10:05",
+            "end": "11:15",
+            "label": "10:05 - 11:15"
+          },
+          {
+            "start": "11:40",
+            "end": "12:50",
+            "label": "11:40 - 12:50"
+          },
+          {
+            "start": "13:15",
+            "end": "14:25",
+            "label": "1:15 - 2:25"
+          },
+          {
+            "start": "14:50",
+            "end": "16:00",
+            "label": "2:50 - 4:00"
+          },
+          {
+            "start": "16:25",
+            "end": "17:35",
+            "label": "4:25 - 5:35"
+          },
+          {
+            "start": "18:00",
+            "end": "19:10",
+            "label": "6:00 - 7:10"
+          },
+          {
+            "start": "19:35",
+            "end": "20:45",
+            "label": "7:35 - 8:45"
+          },
+          {
+            "start": "21:10",
+            "end": "22:20",
+            "label": "9:10 - 10:20"
+          }
+        ]
+      },
+      {
+        "units": 4.0,
+        "sessions": 1,
+        "contactHoursMax": "67.2 (72)",
+        "sessionOptions": "One session per week: Evening, Friday, Saturday only",
+        "lengthMinutes": 230,
+        "break": "20 minutes",
+        "windows": [
+          {
+            "start": "06:55",
+            "end": "11:00",
+            "label": "6:55 - 11:00"
+          },
+          {
+            "start": "11:00",
+            "end": "15:05",
+            "label": "11:00 - 3:05"
+          },
+          {
+            "start": "15:05",
+            "end": "19:20",
+            "label": "3:05 - 7:20"
+          },
+          {
+            "start": "19:05",
+            "end": "22:50",
+            "label": "7:05 - 10:50"
+          }
+        ]
+      },
+      {
+        "units": 5.0,
+        "sessions": 1,
+        "contactHoursMax": "88 (90)",
+        "sessionOptions": "One session per week: Evening, Friday, Saturday only",
+        "lengthMinutes": 295,
+        "break": "20 minutes",
+        "windows": [
+          {
+            "start": "07:00",
+            "end": "11:55",
+            "label": "7:00 - 11:55"
+          },
+          {
+            "start": "12:05",
+            "end": "17:00",
+            "label": "12:05 - 5:00"
+          },
+          {
+            "start": "17:10",
+            "end": "22:05",
+            "label": "5:10 - 10:05"
+          }
+        ]
+      }
+    ],
+    "exception": "Exceptions: Course sections not conforming to the block schedule should be scheduled in consultation with Department Chairs and respective Division Deans.",
+    "intention": "Statement of Intention: Block Schedule intention is to maximize student enrollment.",
+    "source": "block schedule.xlsx"
+  },
+  "modalities": {
+    "chairOptions": [
+      {
+        "key": "in_person",
+        "label": "In person / face-to-face",
+        "schedulerLabel": "LEC / LAB",
+        "timed": true,
+        "roomMode": "campus",
+        "description": "Meets on campus at scheduled days/times."
+      },
+      {
+        "key": "online_async",
+        "label": "Fully online (asynchronous)",
+        "schedulerLabel": "DINT / LABDE",
+        "timed": false,
+        "roomMode": "online",
+        "description": "Fully Online Instruction. Students are required to log in to Canvas by the first day of class for detailed information and required course work. https://canvas.sac.edu There will be no instructional meetings."
+      },
+      {
+        "key": "online_live",
+        "label": "Fully online live (Zoom)",
+        "schedulerLabel": "DINT1 / LABOL",
+        "timed": true,
+        "roomMode": "zoom",
+        "description": "Fully Online Live Instruction.  Live streaming instruction via Zoom during the days and times indicated. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus."
+      },
+      {
+        "key": "campus_hybrid",
+        "label": "On-campus hybrid",
+        "schedulerLabel": "DINT2 + campus meeting lines",
+        "timed": true,
+        "roomMode": "campus",
+        "description": "On-Campus Hybrid Instruction. A combination of on-campus meetings during the days and times indicated and online instruction. Students log in to Canvas. https://canvas.sac.edu"
+      },
+      {
+        "key": "virtual_hybrid",
+        "label": "Virtual hybrid",
+        "schedulerLabel": "DINT3 / LABDE",
+        "timed": true,
+        "roomMode": "zoom",
+        "description": "Virtual Hybrid Instruction. A combination of some live streaming instruction via Zoom during the days and times indicated and online instruction. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus."
+      },
+      {
+        "key": "campus_live_hybrid",
+        "label": "Campus + live streaming hybrid",
+        "schedulerLabel": "DINT4 + LAB/LABOL",
+        "timed": true,
+        "roomMode": "mixed",
+        "description": "On-Campus Hybrid and Virtual Instruction. A combination of on-campus and live streaming meetings during the days and times indicated . Students log in to Canvas. https://canvas.sac.edu"
+      },
+      {
+        "key": "arranged",
+        "label": "Arranged / TBA / work experience",
+        "schedulerLabel": "LEC/LAB TBA or WEXP",
+        "timed": false,
+        "roomMode": "optional",
+        "description": "Hours arranged or work experience; scheduler review required."
+      }
+    ],
+    "codingRows": [
+      {
+        "purpose": "Online",
+        "instructionalMethod": "DINT",
+        "building": "1DE",
+        "room": "ONLINE",
+        "comment": "Fully Online Instruction. Students are required to log in to Canvas by the first day of class for detailed information and required course work. https://canvas.sac.edu There will be no instructional meetings.",
+        "contactHours": "Contact Hours will be the catalog hours.",
+        "contactMeasure": "Term",
+        "notes": ""
+      },
+      {
+        "purpose": "Online w/Webcam Proctor",
+        "instructionalMethod": "DINT",
+        "building": "1DE",
+        "room": "ONLINE",
+        "comment": "Fully Online Instruction with proctored exams.  Students are required to log in to Canvas by the first day of class for detailed information and required course work. http://canvas.sac.edu. There will be no instructional meetings.  This class will require proctored exams using software. Students must have access to a webcam and a microphone.",
+        "contactHours": "Contact Hours will be the catalog hours.",
+        "contactMeasure": "Term",
+        "notes": ""
+      },
+      {
+        "purpose": "Online w/In-Person Proctor",
+        "instructionalMethod": "DINT",
+        "building": "1DE",
+        "room": "ONLINE",
+        "comment": "Fully Online Instruction with in-person exams. Students are required to log in to Canvas by the first day of class for detailed information and required course work. https://canvas.sac.edu. There will be no instructional meetings.  This class will require in-person proctored exams at selected time windows during the following time periods: mm/dd - mm/dd,  mm/dd - mm/dd, mm/dd - mm/dd.",
+        "contactHours": "Contact Hours will be the catalog hours.",
+        "contactMeasure": "Term",
+        "notes": ""
+      },
+      {
+        "purpose": "Online Labs",
+        "instructionalMethod": "LABDE",
+        "building": "1DE",
+        "room": "ONLINE",
+        "comment": "Fully Online Instruction. No on-campus meeting times. Students are required to log in to Canvas by the first day of class for detailed information and required course work. https://canvas.sac.edu",
+        "contactHours": "Contact Hours will be the catalog hours.",
+        "contactMeasure": "Term",
+        "notes": ""
+      },
+      {
+        "purpose": "Online with Online LAB",
+        "instructionalMethod": "DINT and LABDE",
+        "building": "1DE",
+        "room": "ONLINE",
+        "comment": "Fully Online Instruction. No on-campus meeting times. Students are required to log in to Canvas by the first day of class for detailed information and required course work. https://canvas.sac.edu",
+        "contactHours": "Contact Hours will be the catalog hours.",
+        "contactMeasure": "Term",
+        "notes": ""
+      },
+      {
+        "purpose": "Online Live w/ Only Fully Scheduled Remote Mtgs",
+        "instructionalMethod": "DINT1",
+        "building": "1DE",
+        "room": "ZOOM",
+        "comment": "Fully Online Live Instruction.  Live streaming instruction via Zoom during the days and times indicated. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus.",
+        "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
+        "contactMeasure": "Week / Day",
+        "notes": ""
+      },
+      {
+        "purpose": "Online Live w/ Only Fully Scheduled Remote Mtgs, w/In-Person Proctor",
+        "instructionalMethod": "DINT1",
+        "building": "1DE",
+        "room": "ZOOM",
+        "comment": "Fully Online Live Instruction.  Live streaming instruction via Zoom during the days and times indicated. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus. This class will require in-person proctored exams during the assigned class time on the dates given in your syllabus.",
+        "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
+        "contactMeasure": "Week / Day",
+        "notes": ""
+      },
+      {
+        "purpose": "Online Live w/ Only Fully Scheduled Remote Labs",
+        "instructionalMethod": "LABOL",
+        "building": "1DE",
+        "room": "ZOOM",
+        "comment": "Fully Online Live Instruction.  Live streaming instruction via Zoom during the days and times indicated. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus.",
+        "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
+        "contactMeasure": "Week / Day",
+        "notes": ""
+      },
+      {
+        "purpose": "Online Live w/ Only Fully Scheduled Remote LEC and LABs",
+        "instructionalMethod": "DINT1 and LABOL",
+        "building": "1DE",
+        "room": "ZOOM",
+        "comment": "Fully Online Live Instruction.  Live streaming instruction and labs via Zoom during the days and times indicated. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus.",
+        "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
+        "contactMeasure": "Week / Day",
+        "notes": ""
+      },
+      {
+        "purpose": "Hybrid with Scheduled On-Campus Mtgs",
+        "instructionalMethod": "DINT2\n(LEC only)",
+        "building": "1DE",
+        "room": "HYBRID",
+        "comment": "On-Campus Hybrid Instruction. A combination of on-campus meetings during the days and times indicated and online instruction. Students log in to Canvas. https://canvas.sac.edu",
+        "contactHours": "Contact Hours will be the catalog hours.",
+        "contactMeasure": "Term",
+        "notes": ""
+      },
+      {
+        "purpose": "Hybrid with Scheduled On-Campus Labs",
+        "instructionalMethod": "DINT2, LAB/LABDE**\n(LAB only)",
+        "building": "1DE",
+        "room": "HYBRID",
+        "comment": "On-Campus Hybrid Instruction. A combination of on-campus meetings during the days and times indicated and online instruction. Students log in to Canvas. https://canvas.sac.edu",
+        "contactHours": "Contact Hours will be the catalog hours.",
+        "contactMeasure": "Term",
+        "notes": "**LAB added only on line2 of Inst Method in SOFF in order to pay faculty lab rate in FASC"
+      },
+      {
+        "purpose": "Hybrid Lec with Onsite Lab mtgs",
+        "instructionalMethod": "DINT2 and LAB\n (LEC and LAB)",
+        "building": "1DE",
+        "room": "HYBRID",
+        "comment": "On-Campus Hybrid Instruction. A combination of on-campus Lab meetings during the days and times indicated and online instruction. Students log in to Canvas https://canvas.sac.edu",
+        "contactHours": "Contact Hours will be the catalog hours.",
+        "contactMeasure": "Term",
+        "notes": ""
+      },
+      {
+        "purpose": "Hybrid w/In-Person Lec mtgs, Online Lab",
+        "instructionalMethod": "DINT2 and LABDE\n(LEC and LAB)",
+        "building": "1DE",
+        "room": "HYBRID",
+        "comment": "On-Campus Hybrid Instruction. A combination of on-campus meetings during the days and times indicated and online labs. Students log in to Canvas https://canvas.sac.edu",
+        "contactHours": "Contact Hours will be the catalog hours.",
+        "contactMeasure": "Term",
+        "notes": ""
+      },
+      {
+        "purpose": "Online w/ Some Scheduled Remote Mtgs",
+        "instructionalMethod": "DINT3\n(LEC only)",
+        "building": "1DE",
+        "room": "ONLINE",
+        "comment": "Virtual Hybrid Instruction. A combination of some live streaming instruction via Zoom during the days and times indicated and online instruction. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus.",
+        "contactHours": "Contact Hours will be the catalog hours.",
+        "contactMeasure": "Term",
+        "notes": ""
+      },
+      {
+        "purpose": "Online w/ Some Scheduled Remote Lab",
+        "instructionalMethod": "DINT3, LABDE**\n(LAB only)",
+        "building": "1DE",
+        "room": "ONLINE",
+        "comment": "Virtual Hybrid Instruction. A combination of some live streaming instruction via Zoom during the days and times indicated and online instruction. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus.",
+        "contactHours": "Contact Hours will be the catalog hours.",
+        "contactMeasure": "Term",
+        "notes": ""
+      },
+      {
+        "purpose": "Online w/ Some Scheduled Remote Mtgs and Lab",
+        "instructionalMethod": "DINT3 and LABDE\n(LEC and LAB)",
+        "building": "1DE",
+        "room": "ONLINE",
+        "comment": "Virtual Hybrid Instruction. A combination of some live streaming instruction via Zoom during the days and times indicated and online instruction. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus.",
+        "contactHours": "Contact Hours will be the catalog hours.",
+        "contactMeasure": "Term",
+        "notes": ""
+      },
+      {
+        "purpose": "Hybrid with Fully Scheduled On-Campus Mtgs and Live Streaming",
+        "instructionalMethod": "DINT4\n(LEC only)",
+        "building": "1DE",
+        "room": "HYBRID",
+        "comment": "On-Campus Hybrid and Virtual Instruction. A combination of on-campus and live streaming meetings during the days and times indicated . Students log in to Canvas. https://canvas.sac.edu",
+        "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
+        "contactMeasure": "Week / Day",
+        "notes": ""
+      },
+      {
+        "purpose": "Hybrid with Fully Scheduled On-Campus and Live Streaming Labs",
+        "instructionalMethod": "DINT4, LAB/LABOL**\n(LAB only)",
+        "building": "1DE",
+        "room": "HYBRID",
+        "comment": "On-Campus Hybrid and Virtual Instruction. A combination of on-campus and live streaming meetings during the days and times indicated . Students log in to Canvas. https://canvas.sac.edu",
+        "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
+        "contactMeasure": "Week / Day",
+        "notes": "**LAB/LABOL added only on line2 of Inst Method in SOFF in order to pay faculty lab rate in FASC"
+      },
+      {
+        "purpose": "Hybrid with Fully Scheduled On-Campus and Live Streaming Mtgs & Labs",
+        "instructionalMethod": "DINT4 and LAB/LABOL\n(LEC and LAB)",
+        "building": "1DE",
+        "room": "HYBRID",
+        "comment": "On-Campus Hybrid and Virtual Instruction. A combination of on-campus and live streaming meetings during the days and times indicated . Students log in to Canvas. https://canvas.sac.edu",
+        "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
+        "contactMeasure": "Week / Day",
+        "notes": ""
+      },
+      {
+        "purpose": "On-Campus Lecture/Lab",
+        "instructionalMethod": "LEC/LAB",
+        "building": "Actual bldg",
+        "room": "Actual Room",
+        "comment": "This class meets on-campus.",
+        "contactHours": "Contact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
+        "contactMeasure": "Week / Day",
+        "notes": ""
+      },
+      {
+        "purpose": "Online Live w/ Only Fully Scheduled Remote Mtgs",
+        "instructionalMethod": "DINT1/LABOL",
+        "building": "1DE",
+        "room": "ZOOM",
+        "comment": "Fully Online Live Instruction.  Live streaming instruction via Zoom during the days and times indicated. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus.",
+        "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
+        "contactMeasure": "Week / Day",
+        "notes": ""
+      },
+      {
+        "purpose": "On-Campus Lecture",
+        "instructionalMethod": "LEC",
+        "building": "Actual bldg",
+        "room": "Actual Room",
+        "comment": "This class meets on-campus.",
+        "contactHours": "Contact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
+        "contactMeasure": "Week / Day",
+        "notes": ""
+      },
+      {
+        "purpose": "On-Campus Lab",
+        "instructionalMethod": "LAB",
+        "building": "Actual bldg",
+        "room": "Actual Room",
+        "comment": "This class meets on-campus.",
+        "contactHours": "Contact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
+        "contactMeasure": "Week / Day",
+        "notes": ""
+      },
+      {
+        "purpose": "Date/Time Not Specified (TBA)",
+        "instructionalMethod": "LEC/LAB",
+        "building": "Actual bldg",
+        "room": "Actual Room",
+        "comment": "# hours arranged per semester.",
+        "contactHours": "Arranged hours, PAC classes:\nContact Hours will be the Total Catalog Hours for the class. Contact Measure is Term.",
+        "contactMeasure": "Term",
+        "notes": ""
+      },
+      {
+        "purpose": "Work Experience",
+        "instructionalMethod": "WEXP",
+        "building": "",
+        "room": "",
+        "comment": "",
+        "contactHours": "Contact Hours will be the catalog hours.",
+        "contactMeasure": "Term",
+        "notes": ""
+      }
+    ],
+    "source": "DE Colleague Coding 072423.xlsx"
+  },
+  "config": {
+    "term": "2027SP",
+    "start": "2027-02-08",
+    "end": "2027-06-06",
+    "weeks": 16.0,
+    "tlm": 16.6,
+    "loadDivisor": 18.0,
+    "lectureFactor": 1.0,
+    "labFactor": 0.9,
+    "loadWarning": 15.0,
+    "ptLheCap": 10.0,
+    "ftContractLhe": 15.0,
+    "ftOverloadCap": 10.0,
+    "historyLimit": 15,
+    "departmentRates": {},
+    "departmentRoomAccess": {},
+    "courseOverrides": {},
+    "allowConflictSave": false,
+    "standardizedUnitOverrides": {},
+    "prepopulatePriorSchedule": true,
+    "priorScheduleDatePolicy": "relative-weekday",
+    "blockScheduleMode": "advisory",
+    "blockScheduleExemptDepartments": [],
+    "blockAlignmentToleranceMinutes": 5,
+    "googleSheetUrl": "",
+    "appsScriptWebAppUrl": "https://script.google.com/macros/s/AKfycbwiLF6lQKrnqn5Bi051gux77ayejAGTBTC6n6jbtjnsyUTTY204-Btz7jHMRI4L5fB51Q/exec",
+    "githubPagesUrl": "",
+    "pilotMode": true,
+    "pilotGithubAutoLaunch": true,
+    "pilotLabel": "PILOT / TEST",
+    "planningFacultyEnabled": true,
+    "facultyUnmappedPolicy": "approve-for-planning",
+    "approvedWeeklyPatterns": [],
+    "blocks": [
+      {
+        "name": "Early morning",
+        "start": "07:00",
+        "end": "10:00"
+      },
+      {
+        "name": "Mid-morning",
+        "start": "10:15",
+        "end": "13:15"
+      },
+      {
+        "name": "Afternoon",
+        "start": "13:30",
+        "end": "19:00"
+      },
+      {
+        "name": "Evening",
+        "start": "19:15",
+        "end": "22:00"
+      }
+    ],
+    "datesConfirmed": false,
+    "holidaysConfirmed": false,
+    "rulesLabel": "2025 CCCCO Student Attendance Accounting Manual + SAC draft scheduling manual; planner output requires scheduler review",
+    "accountingContext": {
+      "creditDefault": "Standardized Attendance Accounting Method",
+      "effectiveFiscalYear": "2026-27",
+      "hoursBasisAllowedThrough": "2026-27 Recal",
+      "unitsBasisBegins": "2027-28",
+      "openEntryExitCredit": "Actual Hours / Positive Attendance"
+    }
+  }
+}
