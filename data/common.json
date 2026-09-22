@@ -1,6 +1,6 @@
 {
   "appVersion": "4.0-static-department-platform",
-  "datasetId": "50ecb85888f35114",
+  "datasetId": "26cfc2742203f163",
   "term": "2027SP",
   "holidays": [],
   "blockSchedule": {
@@ -653,9 +653,18 @@
       {
         "purpose": "Online",
         "instructionalMethod": "DINT",
+        "methods": [
+          "DINT"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "ONLINE",
         "building": "1DE",
         "room": "ONLINE",
         "comment": "Fully Online Instruction. Students are required to log in to Canvas by the first day of class for detailed information and required course work. https://canvas.sac.edu There will be no instructional meetings.",
+        "webAdvisorLines": [
+          "Online, Room ONLINE"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the catalog hours.",
         "contactHours": "Contact Hours will be the catalog hours.",
         "contactMeasure": "Term",
         "notes": ""
@@ -663,9 +672,18 @@
       {
         "purpose": "Online w/Webcam Proctor",
         "instructionalMethod": "DINT",
+        "methods": [
+          "DINT"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "ONLINE",
         "building": "1DE",
         "room": "ONLINE",
         "comment": "Fully Online Instruction with proctored exams.  Students are required to log in to Canvas by the first day of class for detailed information and required course work. http://canvas.sac.edu. There will be no instructional meetings.  This class will require proctored exams using software. Students must have access to a webcam and a microphone.",
+        "webAdvisorLines": [
+          "Online, Room ONLINE"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the catalog hours.",
         "contactHours": "Contact Hours will be the catalog hours.",
         "contactMeasure": "Term",
         "notes": ""
@@ -673,9 +691,18 @@
       {
         "purpose": "Online w/In-Person Proctor",
         "instructionalMethod": "DINT",
+        "methods": [
+          "DINT"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "ONLINE",
         "building": "1DE",
         "room": "ONLINE",
         "comment": "Fully Online Instruction with in-person exams. Students are required to log in to Canvas by the first day of class for detailed information and required course work. https://canvas.sac.edu. There will be no instructional meetings.  This class will require in-person proctored exams at selected time windows during the following time periods: mm/dd - mm/dd,  mm/dd - mm/dd, mm/dd - mm/dd.",
+        "webAdvisorLines": [
+          "Online, Room ONLINE"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the catalog hours.",
         "contactHours": "Contact Hours will be the catalog hours.",
         "contactMeasure": "Term",
         "notes": ""
@@ -683,9 +710,18 @@
       {
         "purpose": "Online Labs",
         "instructionalMethod": "LABDE",
+        "methods": [
+          "LABDE"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "ONLINE",
         "building": "1DE",
         "room": "ONLINE",
         "comment": "Fully Online Instruction. No on-campus meeting times. Students are required to log in to Canvas by the first day of class for detailed information and required course work. https://canvas.sac.edu",
+        "webAdvisorLines": [
+          "Online Laboratory, Room ONLINE"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the catalog hours.",
         "contactHours": "Contact Hours will be the catalog hours.",
         "contactMeasure": "Term",
         "notes": ""
@@ -693,9 +729,20 @@
       {
         "purpose": "Online with Online LAB",
         "instructionalMethod": "DINT and LABDE",
+        "methods": [
+          "DINT",
+          "LABDE"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "ONLINE",
         "building": "1DE",
         "room": "ONLINE",
         "comment": "Fully Online Instruction. No on-campus meeting times. Students are required to log in to Canvas by the first day of class for detailed information and required course work. https://canvas.sac.edu",
+        "webAdvisorLines": [
+          "Online, Room ONLINE",
+          "For online lab use LABDE, bldg: 1DE  room: ONLINE\n--> Laboratory, Room ONLINE"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the catalog hours.",
         "contactHours": "Contact Hours will be the catalog hours.",
         "contactMeasure": "Term",
         "notes": ""
@@ -703,9 +750,18 @@
       {
         "purpose": "Online Live w/ Only Fully Scheduled Remote Mtgs",
         "instructionalMethod": "DINT1",
+        "methods": [
+          "DINT1"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "ZOOM",
         "building": "1DE",
         "room": "ZOOM",
         "comment": "Fully Online Live Instruction.  Live streaming instruction via Zoom during the days and times indicated. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus.",
+        "webAdvisorLines": [
+          "Online Live Remote Mtgs, \nDay/Time, bldg 1DE, Room ZOOM"
+        ],
+        "contactHoursGuidance": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactMeasure": "Week / Day",
         "notes": ""
@@ -713,9 +769,18 @@
       {
         "purpose": "Online Live w/ Only Fully Scheduled Remote Mtgs, w/In-Person Proctor",
         "instructionalMethod": "DINT1",
+        "methods": [
+          "DINT1"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "ZOOM",
         "building": "1DE",
         "room": "ZOOM",
         "comment": "Fully Online Live Instruction.  Live streaming instruction via Zoom during the days and times indicated. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus. This class will require in-person proctored exams during the assigned class time on the dates given in your syllabus.",
+        "webAdvisorLines": [
+          "Online Live Remote Mtgs, \nDay/Time, bldg 1DE, Room ZOOM"
+        ],
+        "contactHoursGuidance": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactMeasure": "Week / Day",
         "notes": ""
@@ -723,9 +788,18 @@
       {
         "purpose": "Online Live w/ Only Fully Scheduled Remote Labs",
         "instructionalMethod": "LABOL",
+        "methods": [
+          "LABOL"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "ZOOM",
         "building": "1DE",
         "room": "ZOOM",
         "comment": "Fully Online Live Instruction.  Live streaming instruction via Zoom during the days and times indicated. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus.",
+        "webAdvisorLines": [
+          "Laboratory Online Live Day/Time, bldg 1DE, Room ZOOM"
+        ],
+        "contactHoursGuidance": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactMeasure": "Week / Day",
         "notes": ""
@@ -733,9 +807,20 @@
       {
         "purpose": "Online Live w/ Only Fully Scheduled Remote LEC and LABs",
         "instructionalMethod": "DINT1 and LABOL",
+        "methods": [
+          "DINT1",
+          "LABOL"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "ZOOM",
         "building": "1DE",
         "room": "ZOOM",
         "comment": "Fully Online Live Instruction.  Live streaming instruction and labs via Zoom during the days and times indicated. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus.",
+        "webAdvisorLines": [
+          "Online Live Remote Mtgs, \nDay/Time, bldg 1DE, Room ZOOM",
+          "Laboratory Online Live Day/Time, bldg 1DE, Room ZOOM"
+        ],
+        "contactHoursGuidance": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactMeasure": "Week / Day",
         "notes": ""
@@ -743,9 +828,19 @@
       {
         "purpose": "Hybrid with Scheduled On-Campus Mtgs",
         "instructionalMethod": "DINT2\n(LEC only)",
+        "methods": [
+          "DINT2\n(LECONLY)"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "HYBRID",
         "building": "1DE",
         "room": "HYBRID",
         "comment": "On-Campus Hybrid Instruction. A combination of on-campus meetings during the days and times indicated and online instruction. Students log in to Canvas. https://canvas.sac.edu",
+        "webAdvisorLines": [
+          "Online & On-Campus Mtgs, Room HYBRID",
+          "For on-site meetings:\nInclude lines for Actual: Day/Time, building, room"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the catalog hours.",
         "contactHours": "Contact Hours will be the catalog hours.",
         "contactMeasure": "Term",
         "notes": ""
@@ -753,9 +848,21 @@
       {
         "purpose": "Hybrid with Scheduled On-Campus Labs",
         "instructionalMethod": "DINT2, LAB/LABDE**\n(LAB only)",
+        "methods": [
+          "DINT2",
+          "LAB",
+          "LABDE**\n(LABONLY)"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "HYBRID",
         "building": "1DE",
         "room": "HYBRID",
         "comment": "On-Campus Hybrid Instruction. A combination of on-campus meetings during the days and times indicated and online instruction. Students log in to Canvas. https://canvas.sac.edu",
+        "webAdvisorLines": [
+          "Online & On-Campus Mtgs, Room HYBRID",
+          "For on-site meetings:\nLaboratory, Day/Time, actual building, actual room"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the catalog hours.",
         "contactHours": "Contact Hours will be the catalog hours.",
         "contactMeasure": "Term",
         "notes": "**LAB added only on line2 of Inst Method in SOFF in order to pay faculty lab rate in FASC"
@@ -763,9 +870,21 @@
       {
         "purpose": "Hybrid Lec with Onsite Lab mtgs",
         "instructionalMethod": "DINT2 and LAB\n (LEC and LAB)",
+        "methods": [
+          "DINT2",
+          "LAB\n(LEC",
+          "LAB)"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "HYBRID",
         "building": "1DE",
         "room": "HYBRID",
         "comment": "On-Campus Hybrid Instruction. A combination of on-campus Lab meetings during the days and times indicated and online instruction. Students log in to Canvas https://canvas.sac.edu",
+        "webAdvisorLines": [
+          "Online & On-Campus Mtgs, Room HYBRID",
+          "For on-site meetings:\nLaboratory, day/time, actual building, actual room"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the catalog hours.",
         "contactHours": "Contact Hours will be the catalog hours.",
         "contactMeasure": "Term",
         "notes": ""
@@ -773,9 +892,22 @@
       {
         "purpose": "Hybrid w/In-Person Lec mtgs, Online Lab",
         "instructionalMethod": "DINT2 and LABDE\n(LEC and LAB)",
+        "methods": [
+          "DINT2",
+          "LABDE\n(LEC",
+          "LAB)"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "HYBRID",
         "building": "1DE",
         "room": "HYBRID",
         "comment": "On-Campus Hybrid Instruction. A combination of on-campus meetings during the days and times indicated and online labs. Students log in to Canvas https://canvas.sac.edu",
+        "webAdvisorLines": [
+          "Online & On-Campus Mtgs, Room HYBRID",
+          "For on-site meetings:\nInclude lines for Actual: Day/Time, building, room",
+          "For online lab use LABDE, bldg: 1DE  room: ONLINE\n--> Laboratory, Room ONLINE"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the catalog hours.",
         "contactHours": "Contact Hours will be the catalog hours.",
         "contactMeasure": "Term",
         "notes": ""
@@ -783,9 +915,19 @@
       {
         "purpose": "Online w/ Some Scheduled Remote Mtgs",
         "instructionalMethod": "DINT3\n(LEC only)",
+        "methods": [
+          "DINT3\n(LECONLY)"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "ONLINE",
         "building": "1DE",
         "room": "ONLINE",
         "comment": "Virtual Hybrid Instruction. A combination of some live streaming instruction via Zoom during the days and times indicated and online instruction. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus.",
+        "webAdvisorLines": [
+          "Online W Scheduled Zoom Mtgs, Room ONLINE",
+          "For live streaming use bldg: 1DE  room: Zoom\n--> Day/Time, Room ZOOM"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the catalog hours.",
         "contactHours": "Contact Hours will be the catalog hours.",
         "contactMeasure": "Term",
         "notes": ""
@@ -793,9 +935,20 @@
       {
         "purpose": "Online w/ Some Scheduled Remote Lab",
         "instructionalMethod": "DINT3, LABDE**\n(LAB only)",
+        "methods": [
+          "DINT3",
+          "LABDE**\n(LABONLY)"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "ONLINE",
         "building": "1DE",
         "room": "ONLINE",
         "comment": "Virtual Hybrid Instruction. A combination of some live streaming instruction via Zoom during the days and times indicated and online instruction. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus.",
+        "webAdvisorLines": [
+          "Online W Scheduled Zoom Mtgs, Room ONLINE",
+          "For live streaming use bldg: 1DE  room: Zoom\n--> Laboratory Day/Time, Room ZOOM"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the catalog hours.",
         "contactHours": "Contact Hours will be the catalog hours.",
         "contactMeasure": "Term",
         "notes": ""
@@ -803,9 +956,22 @@
       {
         "purpose": "Online w/ Some Scheduled Remote Mtgs and Lab",
         "instructionalMethod": "DINT3 and LABDE\n(LEC and LAB)",
+        "methods": [
+          "DINT3",
+          "LABDE\n(LEC",
+          "LAB)"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "ONLINE",
         "building": "1DE",
         "room": "ONLINE",
         "comment": "Virtual Hybrid Instruction. A combination of some live streaming instruction via Zoom during the days and times indicated and online instruction. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus.",
+        "webAdvisorLines": [
+          "Online W Scheduled Zoom Mtgs, Room ONLINE",
+          "For live streaming use bldg: 1DE  room: Zoom\n--> Day/Time, Room ZOOM",
+          "For live streaming use bldg: 1DE  room: Zoom\n--> Laboratory Day/Time, Room ZOOM"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the catalog hours.",
         "contactHours": "Contact Hours will be the catalog hours.",
         "contactMeasure": "Term",
         "notes": ""
@@ -813,9 +979,20 @@
       {
         "purpose": "Hybrid with Fully Scheduled On-Campus Mtgs and Live Streaming",
         "instructionalMethod": "DINT4\n(LEC only)",
+        "methods": [
+          "DINT4\n(LECONLY)"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "HYBRID",
         "building": "1DE",
         "room": "HYBRID",
         "comment": "On-Campus Hybrid and Virtual Instruction. A combination of on-campus and live streaming meetings during the days and times indicated . Students log in to Canvas. https://canvas.sac.edu",
+        "webAdvisorLines": [
+          "Scheduled On-Campus & Live Str, Room HYBRID",
+          "For on-site meetings:\nInclude lines for Actual: Day/Time, building, room",
+          "For live streaming use bldg: 1DE  room: Zoom\n--> Day/Time, Room ZOOM"
+        ],
+        "contactHoursGuidance": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactMeasure": "Week / Day",
         "notes": ""
@@ -823,9 +1000,22 @@
       {
         "purpose": "Hybrid with Fully Scheduled On-Campus and Live Streaming Labs",
         "instructionalMethod": "DINT4, LAB/LABOL**\n(LAB only)",
+        "methods": [
+          "DINT4",
+          "LAB",
+          "LABOL**\n(LABONLY)"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "HYBRID",
         "building": "1DE",
         "room": "HYBRID",
         "comment": "On-Campus Hybrid and Virtual Instruction. A combination of on-campus and live streaming meetings during the days and times indicated . Students log in to Canvas. https://canvas.sac.edu",
+        "webAdvisorLines": [
+          "Scheduled On-Campus & Live Str, Room HYBRID",
+          "For on-site meetings:\nLaboratory, day/time, actual building, actual room",
+          "For live streaming use bldg: 1DE  room: Zoom\n--> Laboratory, Day/Time, Room ZOOM"
+        ],
+        "contactHoursGuidance": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactMeasure": "Week / Day",
         "notes": "**LAB/LABOL added only on line2 of Inst Method in SOFF in order to pay faculty lab rate in FASC"
@@ -833,9 +1023,23 @@
       {
         "purpose": "Hybrid with Fully Scheduled On-Campus and Live Streaming Mtgs & Labs",
         "instructionalMethod": "DINT4 and LAB/LABOL\n(LEC and LAB)",
+        "methods": [
+          "DINT4",
+          "LAB",
+          "LABOL\n(LEC",
+          "LAB)"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "HYBRID",
         "building": "1DE",
         "room": "HYBRID",
         "comment": "On-Campus Hybrid and Virtual Instruction. A combination of on-campus and live streaming meetings during the days and times indicated . Students log in to Canvas. https://canvas.sac.edu",
+        "webAdvisorLines": [
+          "Scheduled On-Campus & Live Str, Room HYBRID",
+          "For on-site LEC meetings:\nDINT4, Day/Time, actual building, actual room\nFor on-site LAB meetings:\nLaboratory, day/time, actual building, actual room",
+          "For LEC live streaming use bldg: 1DE  room: Zoom\n--> DINT4, Day/Time, Room ZOOM\nFor LAB live streaming use bldg: 1DE  room: Zoom\n--> Laboratory, Day/Time, Room ZOOM"
+        ],
+        "contactHoursGuidance": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactMeasure": "Week / Day",
         "notes": ""
@@ -843,9 +1047,20 @@
       {
         "purpose": "On-Campus Lecture/Lab",
         "instructionalMethod": "LEC/LAB",
+        "methods": [
+          "LEC",
+          "LAB"
+        ],
+        "defaultBuilding": "Actual bldg",
+        "defaultRoom": "Actual Room",
         "building": "Actual bldg",
         "room": "Actual Room",
         "comment": "This class meets on-campus.",
+        "webAdvisorLines": [
+          "Lecture day/time, building, Room actual",
+          "Lab  day/time, building, Room actual"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactHours": "Contact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactMeasure": "Week / Day",
         "notes": ""
@@ -853,9 +1068,20 @@
       {
         "purpose": "Online Live w/ Only Fully Scheduled Remote Mtgs",
         "instructionalMethod": "DINT1/LABOL",
+        "methods": [
+          "DINT1",
+          "LABOL"
+        ],
+        "defaultBuilding": "1DE",
+        "defaultRoom": "ZOOM",
         "building": "1DE",
         "room": "ZOOM",
         "comment": "Fully Online Live Instruction.  Live streaming instruction via Zoom during the days and times indicated. Students log in to Canvas. https://canvas.sac.edu.  There will be no instruction on-campus.",
+        "webAdvisorLines": [
+          "Online Live Remote Mtgs, \nDay/Time, bldg 1DE, Room ZOOM",
+          "Laboratory Online Live Day/Time, bldg 1DE, Room ZOOM"
+        ],
+        "contactHoursGuidance": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactHours": "Scheduled Time will be Total Catalog Hours divided by the number of meeting days (or 16 if full semester)\nContact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactMeasure": "Week / Day",
         "notes": ""
@@ -863,9 +1089,18 @@
       {
         "purpose": "On-Campus Lecture",
         "instructionalMethod": "LEC",
+        "methods": [
+          "LEC"
+        ],
+        "defaultBuilding": "Actual bldg",
+        "defaultRoom": "Actual Room",
         "building": "Actual bldg",
         "room": "Actual Room",
         "comment": "This class meets on-campus.",
+        "webAdvisorLines": [
+          "Lecture day/time, building, Room actual"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactHours": "Contact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactMeasure": "Week / Day",
         "notes": ""
@@ -873,9 +1108,18 @@
       {
         "purpose": "On-Campus Lab",
         "instructionalMethod": "LAB",
+        "methods": [
+          "LAB"
+        ],
+        "defaultBuilding": "Actual bldg",
+        "defaultRoom": "Actual Room",
         "building": "Actual bldg",
         "room": "Actual Room",
         "comment": "This class meets on-campus.",
+        "webAdvisorLines": [
+          "Lab  day/time, building, Room actual"
+        ],
+        "contactHoursGuidance": "Contact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactHours": "Contact Hours will be the Total Catalog Hours divided by the number of meeting days (or 16 if full semester)",
         "contactMeasure": "Week / Day",
         "notes": ""
@@ -883,9 +1127,19 @@
       {
         "purpose": "Date/Time Not Specified (TBA)",
         "instructionalMethod": "LEC/LAB",
+        "methods": [
+          "LEC",
+          "LAB"
+        ],
+        "defaultBuilding": "Actual bldg",
+        "defaultRoom": "Actual Room",
         "building": "Actual bldg",
         "room": "Actual Room",
         "comment": "# hours arranged per semester.",
+        "webAdvisorLines": [
+          "LEC (or LAB), building, Room actual"
+        ],
+        "contactHoursGuidance": "Arranged hours, PAC classes:\nContact Hours will be the Total Catalog Hours for the class. Contact Measure is Term.",
         "contactHours": "Arranged hours, PAC classes:\nContact Hours will be the Total Catalog Hours for the class. Contact Measure is Term.",
         "contactMeasure": "Term",
         "notes": ""
@@ -893,9 +1147,16 @@
       {
         "purpose": "Work Experience",
         "instructionalMethod": "WEXP",
+        "methods": [
+          "WEXP"
+        ],
+        "defaultBuilding": "",
+        "defaultRoom": "",
         "building": "",
         "room": "",
         "comment": "",
+        "webAdvisorLines": [],
+        "contactHoursGuidance": "Contact Hours will be the catalog hours.",
         "contactHours": "Contact Hours will be the catalog hours.",
         "contactMeasure": "Term",
         "notes": ""
@@ -929,7 +1190,7 @@
     "blockAlignmentToleranceMinutes": 5,
     "googleSheetUrl": "",
     "appsScriptWebAppUrl": "https://script.google.com/macros/s/AKfycbwiLF6lQKrnqn5Bi051gux77ayejAGTBTC6n6jbtjnsyUTTY204-Btz7jHMRI4L5fB51Q/exec",
-    "githubPagesUrl": "",
+    "githubPagesUrl": "https://cardenag.github.io/SAC-Schedule-Planner/",
     "pilotMode": true,
     "pilotGithubAutoLaunch": true,
     "pilotLabel": "PILOT / TEST",
@@ -961,12 +1222,30 @@
     "datesConfirmed": false,
     "holidaysConfirmed": false,
     "rulesLabel": "2025 CCCCO Student Attendance Accounting Manual + SAC draft scheduling manual; planner output requires scheduler review",
-    "accountingContext": {
-      "creditDefault": "Standardized Attendance Accounting Method",
+    "accountingPolicy": {
+      "ruleVersion": "2025-CCCCO-SAAM",
       "effectiveFiscalYear": "2026-27",
-      "hoursBasisAllowedThrough": "2026-27 Recal",
+      "creditDefault": "Standardized Attendance Accounting Method",
+      "openEntryExitCredit": "Actual Hours / Positive Attendance",
+      "standardizedBasis": "hours",
+      "hoursBasisAllowedThrough": "2026-27",
       "unitsBasisBegins": "2027-28",
-      "openEntryExitCredit": "Actual Hours / Positive Attendance"
+      "standardizedFactors": {
+        "lecture": 18.0,
+        "activity": 36.0,
+        "lab": 54.0
+      },
+      "compressedCalendar": true,
+      "termLengthCensusPolicy": "",
+      "shortTermCensusPolicy": "CALENDAR_20_PERCENT",
+      "nonBusinessDayAdjustment": "none",
+      "businessDayCalendarSource": "",
+      "businessDayHolidays": [],
+      "allowCreditPositiveAttendanceOverride": true,
+      "positiveAttendanceApprovalRequired": true,
+      "verified": false,
+      "verifiedBy": "",
+      "verifiedDate": ""
     }
   }
 }
